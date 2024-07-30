@@ -29,3 +29,11 @@ function checkYear() {
     result.textContent = year + " không phải là năm nhuận.";
   }
 }
+
+
+
+
+
+
+
+
